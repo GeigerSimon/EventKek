@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Event Kek</string>
+    <string name="button_addEvent">Add Event</string>
+    <string name="hint_eventTitle">Event Title</string>
+    <string name="hint_eventDescription">Description </string>
+    <string name="menu_addEvent">Add</string>
+    <string name="menu_cancelAddEvent">Cancel</string>
+    <string name="enter_event_title"> Please enter a Event Title </string>
+    <string name="save_event"> Save Event </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_event_image">Select Event Image</string>
+    <string name="change_event_image">Change Event Image</string>
 </resources>
